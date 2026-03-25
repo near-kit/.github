@@ -18,6 +18,24 @@ TODO
 - PYTHON
 
 
+---
+
+### AWESOME NEAR KIT
+things made with or that use near kit
+
+
+**near-kit-custom-client-setup-with-other-custom-functions**
+<br/>
+a custom near-kit near client setup with hot wallet connect and functions for interacting with common smart contracts to assist in dapp development.
+<br/>
+🐱 https://github.com/sleet-js/near-kit-custom-client-setup-with-other-custom-functions
+<br/>
+🎈https://www.npmjs.com/package/@sleet-js/near-kit-custom-client-setup-with-other-custom-functions
+
+**obsidian-plugin-near-kit**
+<br/>
+🐱 CODE: https://github.com/obsidianplayground/obsidian-plugin-near-kit
+
 
 ---
 
