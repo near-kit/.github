@@ -46,4 +46,46 @@ tool box for near kit with custom web client and reusable functions
 
 ---
 
+#### borsh
+near kit depends on borsh(Borsh, binary serializer for security-critical projects.).
+<br/>
+https://borsh.io/
+<br/>
+https://github.com/near/borsh
+
+LANGUGES with borsh package
+- TS
+- RUST
+- PYTHON
+- GO
+
+
+
+zorsh
+<br/>
+A TypeScript-first implementation of the Borsh binary serialization format, with a modern Zod-like API and full type inference.
+<br/>
+https://github.com/r-near/zorsh
+
+pyborsh
+<br/>
+Pydantic-native Borsh serialization for Python
+<br/>
+https://github.com/r-near/pyborsh
+
+borsh-rs
+<br/>
+Rust implementation of Binary Object Representation Serializer for Hashing
+<br/>
+https://github.com/near/borsh-rs
+
+borsh-go
+<br/>
+Go implementation of Binary Object Representation Serializer for Hashing
+<br/>
+https://github.com/near/borsh-go
+
+
+---
+
 copyright 2026 by sleet.near
