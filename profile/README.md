@@ -16,6 +16,8 @@ TODO
 - ZIG
 - LUA
 - PYTHON
+- KOTLIN
+- SWIFT
 
 
 ---
