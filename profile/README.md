@@ -4,18 +4,20 @@ A clean, ergonomic client for NEAR Protocol
 
 **TYPESCRIPT**
 <br/>
-https://github.com/near-kit/near-kit
+https://github.com/r-near/near-kit
 
 **RUST**
 <br/>
-https://github.com/near-kit/near-kit-rs
+https://github.com/r-near/near-kit-rs
 
+**PYTHON**
+<br/>
+https://github.com/r-near/near-kit-py
 
 TODO
 - GO
 - ZIG
 - LUA
-- PYTHON
 - KOTLIN
 - SWIFT
 - C
