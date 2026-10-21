@@ -33,7 +33,9 @@ things made with or that use near kit
 <br/>
 tool box for near kit with custom web client and reusable functions
 <br/>
-🐱 https://github.com/sleet-js/near-kit-tool-box
+🐱 TS: https://github.com/sleet-js/near-kit-tool-box
+<br/>
+🐱 RUST: https://github.com/sleet-rs/near-kit-tool-box-rs
 
 
 **obsidian-plugin-near-kit**
@@ -46,7 +48,6 @@ tool box for near kit with custom web client and reusable functions
 🐱 https://github.com/NEARBuilders/near-social-js
 
 
-* sorry this is not an exhaustive list
 
 
 ---
