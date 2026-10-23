@@ -36,7 +36,8 @@ tool box for near kit with custom web client and reusable functions
 🐱 TS: https://github.com/sleet-js/near-kit-tool-box
 <br/>
 🐱 RUST: https://github.com/sleet-rs/near-kit-tool-box-rs
-
+<br/>
+🐱 SKILLS: https://github.com/sleetplayground/near-kit-tool-box-skills
 
 **obsidian-plugin-near-kit**
 <br/>
